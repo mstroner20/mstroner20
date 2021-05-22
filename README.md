@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mstroner20
 - 👀 I’m interested in building fun Software
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Front-End Frameworks and Swift!
 - 📫 How to reach me @ Mstroner566@gmail.com
 
 <!---
